@@ -1,0 +1,13 @@
+{
+  "name": "Aitopia - Smart Home Intelligence",
+  "description": "Futuristic AI-powered smart home gadgets e-commerce platform with cinematic UI, neon glow, and glassmorphism design.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered recommendations",
+    "Real-time theme customization",
+    "Admin analytics",
+    "Voice assistant UI"
+  ]
+}
